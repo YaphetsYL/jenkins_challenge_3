@@ -1,5 +1,7 @@
 # 03_05 Challenge Connect Jenkins to GitHub
 
+[![Build Status](http://ec2-13-229-2-177.ap-southeast-1.compute.amazonaws.com/buildStatus/icon?job=3%2Fchallenge_3)](http://ec2-13-229-2-177.ap-southeast-1.compute.amazonaws.com/job/3/job/challenge_3/)
+
 You're on a team developing an algorithm that calculates the value of pi.
 
 The code for the project is being stored in a GitHub repository. The team wants to test the latest changes to the algorithm with every push to the repo.
